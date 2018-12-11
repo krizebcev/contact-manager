@@ -1,3 +1,7 @@
+## Check out the app
+
+https://github.com/krizebcev/contact-manager
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Learn More
